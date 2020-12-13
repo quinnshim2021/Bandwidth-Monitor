@@ -6,3 +6,5 @@ Python3, psutil
 
 # Running
 Will run the `bandwidth.py` file.
+
+Automator Tutorial (MacOS, Windows): https://medium.com/analytics-vidhya/effortlessly-automate-your-python-scripts-cd295697dff6
