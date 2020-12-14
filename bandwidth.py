@@ -28,7 +28,7 @@ def monitor():
     totalRec = 0
 
     sTime = time.time()
-    while time.time() - sTime < 6:
+    while time.time() - sTime < 60:
         sent = psutil.net_io_counters().bytes_sent
         rec = psutil.net_io_counters().bytes_recv
 
